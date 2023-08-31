@@ -21,7 +21,7 @@ export default function RootLayout({ children }) {
           content="Check out iPhone 12 XR Pro and iPhone 12 Pro Max. Visit your local store and for expert advice."
           key="desc"
         />
-        <meta name="next-size-adjust" content="try" key="desc" />
+        {/* <meta name="next-size-adjust" content="try" key="desc" /> */}
       </head>
       <body>{children}</body>
     </html>
